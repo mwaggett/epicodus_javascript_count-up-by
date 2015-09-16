@@ -4,7 +4,11 @@ var countUpBy = function(increment, max) {
   for (var i = increment; i <= max; i += increment) {
     output.push(i);
   }
-  return output;
+  return formatArrayToString(output);
+};
+
+var formatArrayToString = function(array) {
+  return array.toString().replace(/,/g, ', ');
 };
 
 $(document).ready(function() {
