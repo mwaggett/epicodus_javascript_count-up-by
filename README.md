@@ -1,16 +1,20 @@
-# Application Name
+# Count Up By
 
-##### _{Brief description of application}, {Date of current version}_
+##### _JavaScript Looping practice for Epicodus, 16 September 2015_
 
-#### By **Molly Waggett**
+#### By **Jennifer Morkunas & Molly Waggett**
 
 ## Description
 
-{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}
+This page lets a user enter a number to count up to and a number by which to
+count and returns a count of numbers.
+For example, when given 30 and 5, the result is 5, 10, 15, 20, 25, 30.
 
 ## Setup
 
 * Clone this repository.
+* Open the index.html file in your browser.
+* Go!
 
 ## Technologies Used
 
@@ -21,7 +25,7 @@
 
 ### Legal
 
-Copyright (c) 2015 **Molly Waggett**
+Copyright (c) 2015 **Jennifer Morkunas & Molly Waggett**
 
 This software is licensed under the MIT license.
 
